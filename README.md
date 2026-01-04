@@ -1,4 +1,4 @@
-# 📄 Google Doc to PDF Microservice
+# Google Doc to PDF Microservice
 
 A high-performance Flask microservice designed to convert public Google Docs into PDF files on the fly. It features a modular architecture, robust error handling, and integrated Firebase analytics to track document download statistics.
 
@@ -19,7 +19,7 @@ A high-performance Flask microservice designed to convert public Google Docs int
 - **Containerization**: Docker
 - **Environment Management**: `python-dotenv`
 
-##  Project Structure
+## Project Structure
 
 ```text
 /pdf-microservice
@@ -36,7 +36,7 @@ A high-performance Flask microservice designed to convert public Google Docs int
     └── utils/             # Helper functions
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.11+
