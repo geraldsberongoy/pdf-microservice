@@ -145,7 +145,7 @@ Check if the service is running.
   }
   ```
 
-## ☁️ Deployment (Cloud Run)
+## Deployment (Cloud Run)
 
 This service is optimized for **Google Cloud Run**.
 1.  Deploy using the source code or built image.
