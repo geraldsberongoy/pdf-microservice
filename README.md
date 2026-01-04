@@ -77,7 +77,7 @@ A high-performance Flask microservice designed to convert public Google Docs int
 
 ---
 
-## 🐳 Docker Setup
+## Docker Setup
 
 Build and run the container locally to simulate the production environment.
 
@@ -94,7 +94,7 @@ Build and run the container locally to simulate the production environment.
 
 ---
 
-## 📡 API Reference
+## API Reference
 
 ### 1. Generate PDF
 Converts a Google Doc to PDF.
